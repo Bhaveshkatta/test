@@ -1,5 +1,0 @@
-{{#user}}
-Name: Bhavesh katta
-Skills: HTML, CSS, JS, Python, JAVA, C/C++
-Email: bhaveshkatta942@gmail.com
-{{/user}}
